@@ -1,8 +1,14 @@
 ---
 title: "Mushoor"
-excerpt: "Accessible and Affordable Nutrition. <br/><img src='/images/RCPPO.png' alt='Mushoor' style='float: right; width: 200px; margin-left: 20px;>"
+excerpt: "Accessible and Affordable Nutrition. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
-Mushoor is an agro-based startup founded by a team of four engineering students from the Institute of Engineering - Pulchowk Campus, Nepal. In this specific project under Kalki I.O.T. Solutions I worked as the CEO and led the development and implementation of an innovative IoT-enabled mushroom production chamber. 
+Mushoor is an agro-based startup founded by a team of four engineering students from the Institute of Engineering - Pulchowk Campus, Nepal. In this specific project under Kalki I.O.T. Solutions, I worked as the CEO and led the development and implementation of an innovative IoT-enabled mushroom production chamber. 
+
+# About the Product
+![Description of the product](/images/product){: .align-right width="300px"}
+The product Mushoor Home Harvest System, is a semi-portable, climate-controlled device that can be used to grow various crops such as mushrooms, microgreens, and herbs. Climate-controlled means that it can maintain temperature, humidity, air circulation, and lighting conditions. 
+
+
 
