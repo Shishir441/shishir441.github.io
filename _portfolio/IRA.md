@@ -1,7 +1,7 @@
 ---
 title: "IRA"
-excerpt: "Accessible and Affordable Preparation Classes. <br/><img src='/images/RCPPO.png'>"
+excerpt: "Journey to excellence. <br/><img src='/images/IRA_cover.png'>"
 collection: portfolio
 ---
 
-Mushoor is an agro-based startup founded by a team of four engineering students from the Institute of Engineering - Pulchowk Campus, Nepal. In this specific project under Kalki I.O.T. Solutions I worked as the CEO and led the development and implementation of an innovative IoT-enabled mushroom production chamber. 
+Mushoor is an edtech-based project under Kalki I.O.T. Solutions. I worked as the project lead and formulated the strategic mission, vision and goals of the project. 
