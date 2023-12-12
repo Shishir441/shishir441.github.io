@@ -1,6 +1,6 @@
 ---
-title: "Mushoor1"
-excerpt: "Accessible and Affordable Nutrition. <br/><img src='/images/RCPPO.png'>"
+title: "IRA"
+excerpt: "Accessible and Affordable Preparation Classes. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
