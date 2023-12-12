@@ -1,6 +1,6 @@
 ---
 title: "Mushoor"
-excerpt: "Accessible and Affordable Nutrition. <br/><img src='/images/RCPPO.png'>"
+excerpt: "Accessible and Affordable Nutrition. <br/><img src='/images/RCPPO.png' alt='Mushoor' style='float: right; width: 200px; margin-left: 20px;>"
 collection: portfolio
 ---
 

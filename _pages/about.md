@@ -20,9 +20,7 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 CEO, Co-founder, Kalki I.O.T. Solutions Pvt. Ltd.
-I have and experience of leading a team of driven engineers to develop hardware and software solutions for clients. I also led two different projects through the company namely Mushoor and IRA. Through Mushoor we designed and built a fully automated system to enable underemployed and unemployed population to earn a surplus income and nutrition. 
-
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+I have and experience of leading a team of driven engineers to develop hardware and software solutions for clients. I also led two different projects through the company namely [Mushoor](https://shishir441.github.io/portfolio/mushoor/) and [IRA](https://shishir441.github.io/portfolio/IRA/). Through Mushoor we designed and built a fully automated system to enable underemployed and unemployed population to earn a surplus income and nutrition. And, through IRA we enabled PSC and TSC aspirants in Nepal to access preparation classes online at very affordable rates.
 
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
