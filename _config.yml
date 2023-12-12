@@ -13,7 +13,7 @@ name                     : &name "Shishir Panta"
 description              : &description "personal description"
 url                      : https://shishir441.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sudo-Boris/sudo-Boris.github.io"
+repository               : "shishir441/shishir441.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Shishir Panta"
   avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
-  location         : "Berlin/ Darmstadt, Germany"
-  employer         : "TU Darmstadt"
+  bio              : "Intelligent Media Computing \n under Prof. Jiazhong Chen"
+  location         : "Wuhan/ Hubei, China"
+  employer         : "Tanahun, Nepal"
   pubmed           : 
   googlescholar    : 
-  email            : "boris.meinardus@gmail.com"
+  email            : "shishir441@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "shishir441"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : #"boris-meinardus-ba2302177"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : #"BorisMeinardus"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : #"@borismeinardus"
   wikipedia        :
 
 
