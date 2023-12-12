@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Shishir!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,18 +11,16 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a final year graduate student at the Huazhong University of Science and Technology. I completed my Bachelor's in Electronics and Communication Engineering from Tribhuvan University, Nepal.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests include developing AI technologies for social good!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📚 I'm currently working towards my Master's Thesis in the field of High Resolution Face Restoration and Swapping.
 
 # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+## 🤖 CEO, Co-founder, Kalki I.O.T. Solutions Pvt. Ltd.
+I have and experience of leading a team of driven engineers to develop hardware and software solutions for clients. I also led two different projects through the company namely Mushoor and IRA. Through Mushoor we designed and built a fully automated system to enable underemployed and unemployed population to earn a surplus income and nutrition. 
 
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
@@ -38,7 +36,9 @@ Currently I am working as a **Student Researcher** at the Reliable Multimodal AI
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
-## 📚 Teaching and Community Contributions
+## 📚 Teaching Experience
+I worked as a part-time lecturer of "Programming in C" course in Cosmos College of Management and Technology for a semester. Also, I worked as an IQ and Computer Science tutor for Teacher Service Commission Aspirants through IRA.
+
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
 
 
